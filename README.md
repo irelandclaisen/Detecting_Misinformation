@@ -1,7 +1,7 @@
 # Detecting_Misinformation
 
 ## Description
-In this project, I scrape data from news sites to develop a logistic regression model that can classify news as misinformation or not.  I also found the topics that news clusters.
+In this project, I scrape data from news sites to develop a logistic regression model that can classify news as misinformation or reliable.  I also found the topics that news clusters.
 
 ## Context
 
@@ -18,7 +18,7 @@ By developing this model, we can classify news articles that are likely misinfor
  
 
 ## Data
-Data was taken from kaggle, adfontesmedia.com and data from ASU.
+Data was taken from kaggle, adfontesmedia.com and this dataset(https://github.com/KaiDMML/FakeNewsNet).
 
 
 ## Model Overview
